@@ -11,6 +11,17 @@ body {
 
 
 
-div{
+#carouselExampleIndicators{
     float: right;
+    max-height: 300px;
+    max-width: 300px;
+    margin-right: 125px;
 }
+
+.card{
+   background-color:transparent;
+  }
+
+  ul{
+    text-align: center;
+  }
