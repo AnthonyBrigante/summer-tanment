@@ -13,20 +13,6 @@ body {
 
 
 
-#carouselExampleIndicators{
-    float: right;
-    max-height: 300px;
-    max-width: 300px;
-    margin-right: 700px;
-    margin-top: 200px;
-}
-
 .card{
    background-color:transparent;
-  }
-
-  ul{
-    color: rgb(255, 255, 255);
-    margin-left: 900px;
-    
   }
